@@ -81,3 +81,14 @@ section ol li{
     text-align: center;
     display: inline-block;
 }
+
+.image-gallery {
+  text-align: center;
+  display:inline-block
+
+}
+.image-gallery img {
+  width: 400px;
+  height: 200px;
+  display: inline-block;
+}
